@@ -7,4 +7,5 @@ Proje Kod Kısmı Anlatım(mp4)--->  https://drive.google.com/file/d/1zjaKmGCvO6
 Proje Çalışma Kısmı Anlatım(mp4)--->  https://drive.google.com/file/d/1N1mUM3XfapO0peBGJl-vfJ4FNZW_Gm55/view?usp=sharing
 
 
-![Snake Game](https://user-images.githubusercontent.com/51024385/158040106-c405b221-9224-4c24-9d1a-c1b450b74e32.png)
+![Snake Game](https://user-images.githubusercontent.com/51024385/158040129-143acf6c-d4a1-4bfc-8b82-898de6f82228.png)
+
